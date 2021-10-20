@@ -1,0 +1,26 @@
+body 
+{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+h1 
+{
+    text-align: center;
+    color: darkblue;
+    font-family: cursive;
+}
+
+p 
+{
+    text-align: center;
+    color: darkblue;
+    font-family: cursive;
+}
+
+
+
+a 
+{
+    color: white;
+}
